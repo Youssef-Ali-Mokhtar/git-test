@@ -1,1 +1,2 @@
-console.log("Loooong Heey");
+console.log("Heey you!");
+console.log("A second console");
